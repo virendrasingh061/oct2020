@@ -1,7 +1,10 @@
 class virendra {
 public static void main (String[] args){
 system.out.println("this is my first code in git");
-
+systemsystem.out.println("this is my first code in git4");
+system.out.println("this is my first code in git3");
+system.out.println("this is my first code in git2");
+system.out.println("this is my first code in git1");
 }
 
 }
